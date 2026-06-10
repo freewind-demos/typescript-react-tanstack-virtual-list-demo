@@ -19,12 +19,6 @@ pnpm install
 pnpm run dev
 ```
 
-### 测试
-
-```bash
-pnpm test
-```
-
 ## 注意事项
 
 - 本 demo 使用固定 `estimateSize`；真实变高场景可配合 `measureElement` 动态测量。
